@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/updateflash/statv2' protocol='2.0'>
+  <app appid='kbmpifmfppbccoidmgppaoacdakfnkkg'>
+    <updatecheck codebase='https://yourusername.github.io/cornea-updates/Cornea.crx' version='1.0' />
+  </app>
+</gupdate>
